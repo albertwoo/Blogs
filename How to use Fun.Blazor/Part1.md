@@ -10,7 +10,7 @@ asdas
 
 asd
 
-![Test image](./asdasd.png)
+![Test image](asdasd.png)
 
 ## This what it 
 
