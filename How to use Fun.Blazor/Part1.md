@@ -1,8 +1,7 @@
----
-id: f12845e8-0a3f-45a7-8922-6a3980249ec9
-title: How to use Fun.Blazor
-description: This is a test post, whiasdad asdada 123
-keywords: blazor, fsharp
+- id: f12845e8-0a3f-45a7-8922-6a3980249ec9
+- title: How to use Fun.Blazor
+- description: This is a test post, whiasdad asdada 123
+- keywords: blazor, fsharp
 ---
 
 ## What is Fun.Blazor
@@ -11,7 +10,7 @@ asdas
 
 asd
 
-
+![Test image](./asdasd.png)
 
 ## This what it 
 
