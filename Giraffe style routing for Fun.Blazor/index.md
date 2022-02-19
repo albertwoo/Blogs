@@ -2,6 +2,7 @@
 - title: Giraffe style routing for Fun.Blazor
 - keywords: fsharp,blazor,giraffe
 - description: Before I experimented Feliz.Router with Fun.Blazor and find some inconvenience so this time I tried to use giraffe style to see how it is going on.
+- createTime: 2021-07-01
 ---
 
 Before I like the Feliz.Router very much, because it is very simple to start:

@@ -2,6 +2,7 @@
 - title: 漫谈登录、验证、授权、 SSO
 - keywords: 时间笔记,单点登录,SSO
 - description: 我们经常会听说登陆(login), 验证(authenticate), 授权(authorize)。他们的区别和具体的实现到底是怎么做的呢？以及和单点登陆(SSO)的关系又是什么呢？和cookie, session, JWT又有怎样的联系呢？
+- createTime: 2021-01-28
 ---
 
 我们经常会听说登录(login), 验证(authenticate), 授权(authorize)。他们的区别和具体的实现到底是怎么做的呢？以及和单点登录(SSO)的关系又是什么呢？和cookie, session, JWT又有怎样的联系呢？

@@ -2,6 +2,7 @@
 - title: 不用模板写blazor的尝试，折腾无止境
 - keywords: blazor,fsharp,dsl
 - description: 上回说到我用blazor重写了个人博客，当时用的是fsharp，我暴力生成了MudBlazor的DSL来使用。。。
+- createTime: 2021-07-18
 ---
 
 

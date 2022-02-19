@@ -2,6 +2,7 @@
 - title: Experiment on computation expression style for Blazor with F#
 - keywords: feliz,fsharp,blazor,computation_expression
 - description: Before I use Feliz style for the auto generated dsl but find its a little redundant, so let`s try CE style
+- createTime: 2021-07-18
 ---
 
 Before I use Feliz style for the auto generated DSL but find it’s a little redundant, so let`s try CE style. The problem with Feliz style is obvious, every time you want to add attribute or some property you need to type the whole name for that component like below:

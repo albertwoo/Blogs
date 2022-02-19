@@ -2,6 +2,7 @@
 - title: 使用 tailwindcss 为我的 blazor 博客添加黑暗模式
 - keywords: blazor,tailwindcss,暗黑模式
 - description: 最近几年黑暗模式越来越流行，不管是系统成面还是 UI 设计趋势，感觉不光是程序员喜欢黑色主题，大家都好这口，可能是因为大家都越来越喜欢晚睡了吧
+- createTime: 2021-07-19
 ---
 
 ## 首先来对比一下最终效果:

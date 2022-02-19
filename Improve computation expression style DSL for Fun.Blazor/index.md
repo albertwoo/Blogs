@@ -2,6 +2,7 @@
 - title: Improve computation expression style DSL for Fun.Blazor
 - keywords: computation_expression,fsharp,dsl
 - description: Still trying to mess around with the frontend DSL powered by fsharp computation expression
+- createTime: 2021-07-18
 ---
 
 Before in the last post I said there are three limitations when use computation expression for UI DSL:

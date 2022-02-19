@@ -2,6 +2,7 @@
 - title: 使用 Blazor 重写了个人博客后的感想
 - keywords: blazor,fsharp
 - description: 近年来 Blazor 越发火热，虽然不及 react, vue, angular等，但是在 .net 生态，它却是如此特别和重要
+- createTime: 2021-07-18
 ---
 
 Blazor 有多种模式运行，比如基于 websocket 的服务端，基于 WASM 的客户端，以及混合以上两种的模式。另外在此基础上，在 .NET 6 里面还可以做原生应用开发，无缝访问原生 api。这些简单，一致，高性能的体验是在其他平台少见的。
