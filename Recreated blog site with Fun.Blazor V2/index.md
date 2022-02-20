@@ -5,6 +5,8 @@
 - createTime: 2022-02-20
 ---
 
+> Here is the [source code](https://github.com/slaveOftime/Slaveoftime.Site)
+
 There are two projects:
 1. Slaveoftime.Db: is a csharp project with entityframework core which is the easiest thing for me to manage db creation, migration, and CRUD. No need to talk about it in this post. Why csharp? For me it is a right tool for the right thing.
 2. Slaveoftime.Site: boot the server, pulling public GitHub repos markdown and save its metadata to data. Serve the UI with prerender for SEO and interaction for users. I will focus on UI part.
